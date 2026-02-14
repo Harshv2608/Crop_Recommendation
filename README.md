@@ -89,7 +89,7 @@ The **Random Forest Classifier** achieved the highest accuracy among the tested 
 ## 📂 Project Structure
 
 ```
-Crop-Recommendation-ML/
+Crop_Recommendation/
 │
 ├── data/
 │   └── Crop_recommendation.csv
@@ -116,8 +116,8 @@ Crop-Recommendation-ML/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Crop-Recommendation-ML.git
-cd Crop-Recommendation-ML
+git clone https://github.com/Harshv2608/Crop_Recommendation.git
+cd Crop_Recommendation
 ```
 
 ---
